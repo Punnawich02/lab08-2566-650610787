@@ -15,7 +15,7 @@ export default  function Home() {
         <Task title="Sleep"></Task>
       </div>
 
-      <Footer year="2023" name="Punawich Dach in" stu_id="650610787"></Footer>
+      <Footer year="2023" name="Punawich Dach-in" stu_id="650610787"></Footer>
     
     </div>
   );
